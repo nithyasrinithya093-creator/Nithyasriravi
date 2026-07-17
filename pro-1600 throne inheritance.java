@@ -1,5 +1,3 @@
-import java.util.*;
-
 class ThroneInheritance {
 
     HashMap<String, List<String>> family = new HashMap<>();
