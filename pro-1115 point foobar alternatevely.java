@@ -1,5 +1,3 @@
-import java.util.concurrent.Semaphore;
-
 class FooBar {
     private int n;
     private Semaphore foo = new Semaphore(1);
